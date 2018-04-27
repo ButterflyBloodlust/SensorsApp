@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorsApp</string>
+    <string name="s_record_inf">RECORD</string>
+    <string name="s_start_rec">Start recording</string>
+    <string name="s_stop_rec">Stop recording</string>
+    <string name="s_start_playing">Start playing</string>
+    <string name="s_stop_playing">Stop playing</string>
+</resources>
